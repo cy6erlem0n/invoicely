@@ -29,6 +29,4 @@ Thumbs.db
 
 # === IDE ===
 .vscode/
-.idea/
-*.sublime-workspace
-*.sublime-project
+
